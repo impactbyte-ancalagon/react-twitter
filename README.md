@@ -1,6 +1,12 @@
 # React Twitter Clone
 
+**Expectation:**
+
 ![Screenshot](screenshot.png)
+
+**Reality:**
+
+![Progress](progress.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
